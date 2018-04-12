@@ -1,10 +1,8 @@
-package sumacorba;
-
 import java.util.Scanner;
 import sumaApp.*;
+//importar la interfaz idl
 import org.omg.CosNaming.*;
 import org.omg.CORBA.*;
-
 
 public class SumaClient {
 	static suma sumaImpl;

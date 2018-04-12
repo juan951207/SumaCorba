@@ -1,5 +1,3 @@
-package sumacorba;
-
 import sumaApp.*;
 //importar la interfaz idl
 import org.omg.CosNaming.*;
